@@ -1,4 +1,8 @@
-# QR-UOV Round 3 Reference Implementation
+# QR-UOV Round 3 Reference Implementation (Fixed)
+
+## Note
+This repository contains the Round 3 reference implementation submitted to NIST. The contents will remain unchanged unless there is a specific need to modify them.
+Please submit all pull requests to [this repository](https://github.com/qruov/round3-liboqs).
 
 ## Security Notice
 
